@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/bin/Debug/net7.0/CodeExercise01VariablesAndOperators
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/bin/Debug/net7.0/CodeExercise01VariablesAndOperators.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/bin/Debug/net7.0/CodeExercise01VariablesAndOperators.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/bin/Debug/net7.0/CodeExercise01VariablesAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/bin/Debug/net7.0/CodeExercise01VariablesAndOperators.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/CodeExercise01VariablesAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/CodeExercise01VariablesAndOperators.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/CodeExercise01VariablesAndOperators.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/CodeExercise01VariablesAndOperators.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/CodeExercise01VariablesAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/refint/CodeExercise01VariablesAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/CodeExercise01VariablesAndOperators.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/CodeExercise01VariablesAndOperators.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise01VariablesAndOperators/obj/Debug/net7.0/ref/CodeExercise01VariablesAndOperators.dll
