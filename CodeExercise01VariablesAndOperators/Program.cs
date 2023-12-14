@@ -1,4 +1,4 @@
-﻿Console.WriteLine(VariablesAndOperators);
+﻿Console.WriteLine(VariablesAndOperators());
 
 static int VariablesAndOperators()
 {

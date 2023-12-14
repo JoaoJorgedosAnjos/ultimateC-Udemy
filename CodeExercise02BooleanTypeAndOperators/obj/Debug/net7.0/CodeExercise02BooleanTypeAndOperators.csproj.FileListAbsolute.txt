@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/bin/Debug/net7.0/CodeExercise02BooleanTypeAndOperators
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/bin/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/bin/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/bin/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/bin/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/refint/CodeExercise02BooleanTypeAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/CodeExercise02BooleanTypeAndOperators.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/CodeExercise02BooleanTypeAndOperators/obj/Debug/net7.0/ref/CodeExercise02BooleanTypeAndOperators.dll
