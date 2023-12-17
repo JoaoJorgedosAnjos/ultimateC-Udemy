@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/bin/Debug/net7.0/Ex01VariablesAndOperators
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/bin/Debug/net7.0/Ex01VariablesAndOperators.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/bin/Debug/net7.0/Ex01VariablesAndOperators.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/bin/Debug/net7.0/Ex01VariablesAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/bin/Debug/net7.0/Ex01VariablesAndOperators.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/Ex01VariablesAndOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/Ex01VariablesAndOperators.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/Ex01VariablesAndOperators.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/Ex01VariablesAndOperators.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/Ex01VariablesAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/refint/Ex01VariablesAndOperators.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/Ex01VariablesAndOperators.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/Ex01VariablesAndOperators.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/obj/Debug/net7.0/ref/Ex01VariablesAndOperators.dll

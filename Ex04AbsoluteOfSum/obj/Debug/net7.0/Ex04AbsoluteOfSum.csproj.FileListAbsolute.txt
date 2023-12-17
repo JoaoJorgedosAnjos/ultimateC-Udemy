@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/bin/Debug/net7.0/Ex04AbsoluteOfSum
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/bin/Debug/net7.0/Ex04AbsoluteOfSum.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/bin/Debug/net7.0/Ex04AbsoluteOfSum.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/bin/Debug/net7.0/Ex04AbsoluteOfSum.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/bin/Debug/net7.0/Ex04AbsoluteOfSum.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/Ex04AbsoluteOfSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/Ex04AbsoluteOfSum.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/Ex04AbsoluteOfSum.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/Ex04AbsoluteOfSum.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/Ex04AbsoluteOfSum.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/refint/Ex04AbsoluteOfSum.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/Ex04AbsoluteOfSum.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/Ex04AbsoluteOfSum.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/obj/Debug/net7.0/ref/Ex04AbsoluteOfSum.dll

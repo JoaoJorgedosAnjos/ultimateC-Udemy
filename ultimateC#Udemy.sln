@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02BooleanTypeAndOperators
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15HotelBookingClass", "Ex15HotelBookingClass\Ex15HotelBookingClass.csproj", "{9FA393D8-A49F-4599-87D5-8AEF4A91F850}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04AbsoluteOfSum", "Ex04AbsoluteOfSum\Ex04AbsoluteOfSum.csproj", "{D84F763B-2A61-4B00-83B0-9B8EC6C7406F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{9FA393D8-A49F-4599-87D5-8AEF4A91F850}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA393D8-A49F-4599-87D5-8AEF4A91F850}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA393D8-A49F-4599-87D5-8AEF4A91F850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84F763B-2A61-4B00-83B0-9B8EC6C7406F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84F763B-2A61-4B00-83B0-9B8EC6C7406F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84F763B-2A61-4B00-83B0-9B8EC6C7406F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84F763B-2A61-4B00-83B0-9B8EC6C7406F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
