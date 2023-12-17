@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/bin/Debug/net7.0/Ex10Arrays01
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/bin/Debug/net7.0/Ex10Arrays01.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/bin/Debug/net7.0/Ex10Arrays01.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/bin/Debug/net7.0/Ex10Arrays01.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/bin/Debug/net7.0/Ex10Arrays01.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/Ex10Arrays01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/Ex10Arrays01.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/Ex10Arrays01.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/Ex10Arrays01.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/Ex10Arrays01.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/refint/Ex10Arrays01.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/Ex10Arrays01.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/Ex10Arrays01.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex10Arrays01/obj/Debug/net7.0/ref/Ex10Arrays01.dll

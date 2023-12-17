@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex08DoWhileLoop", "Ex08DoWh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09ForLoop", "Ex09ForLoop\Ex09ForLoop.csproj", "{C537AE60-7D6F-4F71-9C15-6FABDB27CA98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex10Arrays01", "Ex10Arrays01\Ex10Arrays01.csproj", "{A96A4869-0048-41FF-913C-2E344EB75DB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{C537AE60-7D6F-4F71-9C15-6FABDB27CA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C537AE60-7D6F-4F71-9C15-6FABDB27CA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C537AE60-7D6F-4F71-9C15-6FABDB27CA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96A4869-0048-41FF-913C-2E344EB75DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96A4869-0048-41FF-913C-2E344EB75DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96A4869-0048-41FF-913C-2E344EB75DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96A4869-0048-41FF-913C-2E344EB75DB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
