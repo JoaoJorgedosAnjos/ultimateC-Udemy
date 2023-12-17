@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/bin/Debug/net7.0/Ex07WhileLoop
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/bin/Debug/net7.0/Ex07WhileLoop.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/bin/Debug/net7.0/Ex07WhileLoop.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/bin/Debug/net7.0/Ex07WhileLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/bin/Debug/net7.0/Ex07WhileLoop.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/Ex07WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/Ex07WhileLoop.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/Ex07WhileLoop.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/Ex07WhileLoop.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/Ex07WhileLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/refint/Ex07WhileLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/Ex07WhileLoop.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/Ex07WhileLoop.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/obj/Debug/net7.0/ref/Ex07WhileLoop.dll

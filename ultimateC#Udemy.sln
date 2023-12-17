@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05StringInterpolation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06SwitchStatement", "Ex06SwitchStatement\Ex06SwitchStatement.csproj", "{29CFD2EE-E759-4118-A0B7-17E72C79B247}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07WhileLoop", "Ex07WhileLoop\Ex07WhileLoop.csproj", "{13CA1152-9D14-4F4D-A667-9085906C6873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{29CFD2EE-E759-4118-A0B7-17E72C79B247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29CFD2EE-E759-4118-A0B7-17E72C79B247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29CFD2EE-E759-4118-A0B7-17E72C79B247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13CA1152-9D14-4F4D-A667-9085906C6873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CA1152-9D14-4F4D-A667-9085906C6873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CA1152-9D14-4F4D-A667-9085906C6873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CA1152-9D14-4F4D-A667-9085906C6873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
