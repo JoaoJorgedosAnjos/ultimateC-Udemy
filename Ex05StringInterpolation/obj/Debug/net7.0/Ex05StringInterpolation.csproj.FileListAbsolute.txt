@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/bin/Debug/net7.0/Ex05StringInterpolation
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/bin/Debug/net7.0/Ex05StringInterpolation.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/bin/Debug/net7.0/Ex05StringInterpolation.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/bin/Debug/net7.0/Ex05StringInterpolation.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/bin/Debug/net7.0/Ex05StringInterpolation.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/Ex05StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/Ex05StringInterpolation.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/Ex05StringInterpolation.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/Ex05StringInterpolation.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/Ex05StringInterpolation.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/refint/Ex05StringInterpolation.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/Ex05StringInterpolation.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/Ex05StringInterpolation.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex05StringInterpolation/obj/Debug/net7.0/ref/Ex05StringInterpolation.dll
