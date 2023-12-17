@@ -3,18 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ultimateC#Udemy", "ultimateC#Udemy\ultimateC#Udemy.csproj", "{93D4957D-B44A-43EF-96BA-72CB5D7A2AD3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBookingClass", "HotelBookingClass\HotelBookingClass.csproj", "{DA83EAF7-20F6-4E69-99C2-C458F7BC7421}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExercise15HotelBookingClass", "CodeExercise15HotelBookingClass\CodeExercise15HotelBookingClass.csproj", "{92F6C27E-7D7E-4CFB-BD7C-63DB4C9F71FB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExercise01VariablesAndOperators", "CodeExercise01VariablesAndOperators\CodeExercise01VariablesAndOperators.csproj", "{BFBBDC2F-3461-453C-A1A3-E03E1E888891}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExercise02BooleanTypeAndOperators", "CodeExercise02BooleanTypeAndOperators\CodeExercise02BooleanTypeAndOperators.csproj", "{D7E14A2D-4F60-489F-8A1C-B3308B55F415}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeExercise03IfElseConditionalStatement", "CodeExercise03IfElseConditionalStatement\CodeExercise03IfElseConditionalStatement.csproj", "{9CF743A4-4274-4923-BED6-CA6F4C516D51}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01VariablesAndOperators", "Ex01VariablesAndOperators\Ex01VariablesAndOperators.csproj", "{E191BFAF-0A59-40E0-8167-38906D17811E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03IfElseConditionalStatement", "Ex03IfElseConditionalStatement\Ex03IfElseConditionalStatement.csproj", "{5ACBB9EC-387D-4C91-92E7-48372E5302BC}"
@@ -30,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06SwitchStatement", "Ex06SwitchStatement\Ex06SwitchStatement.csproj", "{29CFD2EE-E759-4118-A0B7-17E72C79B247}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07WhileLoop", "Ex07WhileLoop\Ex07WhileLoop.csproj", "{13CA1152-9D14-4F4D-A667-9085906C6873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex08DoWhileLoop", "Ex08DoWhileLoop\Ex08DoWhileLoop.csproj", "{B32C7CF7-E1E8-4F85-93D3-3A57283E05D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -96,5 +86,9 @@ Global
 		{13CA1152-9D14-4F4D-A667-9085906C6873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13CA1152-9D14-4F4D-A667-9085906C6873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13CA1152-9D14-4F4D-A667-9085906C6873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32C7CF7-E1E8-4F85-93D3-3A57283E05D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32C7CF7-E1E8-4F85-93D3-3A57283E05D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32C7CF7-E1E8-4F85-93D3-3A57283E05D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32C7CF7-E1E8-4F85-93D3-3A57283E05D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
