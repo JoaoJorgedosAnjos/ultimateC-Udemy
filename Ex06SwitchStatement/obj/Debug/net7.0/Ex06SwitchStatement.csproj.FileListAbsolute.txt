@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/bin/Debug/net7.0/Ex06SwitchStatement
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/bin/Debug/net7.0/Ex06SwitchStatement.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/bin/Debug/net7.0/Ex06SwitchStatement.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/bin/Debug/net7.0/Ex06SwitchStatement.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/bin/Debug/net7.0/Ex06SwitchStatement.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/Ex06SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/Ex06SwitchStatement.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/Ex06SwitchStatement.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/Ex06SwitchStatement.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/Ex06SwitchStatement.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/refint/Ex06SwitchStatement.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/Ex06SwitchStatement.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/Ex06SwitchStatement.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex06SwitchStatement/obj/Debug/net7.0/ref/Ex06SwitchStatement.dll

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04AbsoluteOfSum", "Ex04Ab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05StringInterpolation", "Ex05StringInterpolation\Ex05StringInterpolation.csproj", "{3283B845-713D-42ED-BB0A-36633B06F48F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06SwitchStatement", "Ex06SwitchStatement\Ex06SwitchStatement.csproj", "{29CFD2EE-E759-4118-A0B7-17E72C79B247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{3283B845-713D-42ED-BB0A-36633B06F48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3283B845-713D-42ED-BB0A-36633B06F48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3283B845-713D-42ED-BB0A-36633B06F48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CFD2EE-E759-4118-A0B7-17E72C79B247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CFD2EE-E759-4118-A0B7-17E72C79B247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CFD2EE-E759-4118-A0B7-17E72C79B247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CFD2EE-E759-4118-A0B7-17E72C79B247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
