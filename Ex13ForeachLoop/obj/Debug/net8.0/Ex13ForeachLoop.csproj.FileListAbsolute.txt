@@ -1,0 +1,15 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/bin/Debug/net8.0/Ex13ForeachLoop
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/bin/Debug/net8.0/Ex13ForeachLoop.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/bin/Debug/net8.0/Ex13ForeachLoop.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/bin/Debug/net8.0/Ex13ForeachLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/bin/Debug/net8.0/Ex13ForeachLoop.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.sourcelink.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/refint/Ex13ForeachLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/Ex13ForeachLoop.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex13ForeachLoop/obj/Debug/net8.0/ref/Ex13ForeachLoop.dll
