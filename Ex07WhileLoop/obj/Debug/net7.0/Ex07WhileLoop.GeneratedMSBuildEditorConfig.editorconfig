@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ex07WhileLoop
 build_property.ProjectDir = /Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex07WhileLoop/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rhyxpDbJquH87H8E66CEXh8YcOoMNKQX09hhd8ikoycU/F9DMmip3RiEL+HBpmkmLDAXfohYkkT7jXxXCUfXBA==",
+  "dgSpecHash": "sNg7/Kh/Iy+DFLQNjz2UPEk9VVxn0i/qOHbfJGZAfPQl570smm6Aj8IgUcVPiqNhqqElwM6HBB4M/tw6JpzCag==",
   "success": true,
   "projectFilePath": "/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex04AbsoluteOfSum/Ex04AbsoluteOfSum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

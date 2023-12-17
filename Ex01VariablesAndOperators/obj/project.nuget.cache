@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "adGWNmuKB7DjSElXULos6Vi+1LcPRT0I/QnQn6Qv6oApOEXg/w82p2W/YpWqfHFwXvA8oX9ii/+oOHT1RMC9VA==",
+  "dgSpecHash": "Nvcej72tDnJyBvDySzAVjg1TTq7wIPZQ8LMxsqmLJZdkxgKGW0z6hD2krd4lqFB65GHpZmqneH6uzBBX2l3hOA==",
   "success": true,
   "projectFilePath": "/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex01VariablesAndOperators/Ex01VariablesAndOperators.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

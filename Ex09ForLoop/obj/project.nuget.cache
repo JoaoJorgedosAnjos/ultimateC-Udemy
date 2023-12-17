@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WS9TGOEaYldyqB8SsWmiS00n/FvVHUDUONzzIxzYcRchfCWObXtAZNEmhmwk6kTF7rohHi1i9rGwB9ABRcPhWQ==",
+  "dgSpecHash": "gkjltHhOTzr0gv0f2Nidh7NC86QWE3PiqpT5TygBPEwFePpJMtGSIvmOLMLfvJFEq7bv7Y9GfxLhpzz59/x3eg==",
   "success": true,
   "projectFilePath": "/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/Ex09ForLoop.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

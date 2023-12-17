@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RePHRhSrjgXLWJCtnuD9PzKdCwsJrc6Bio4RBKw8ZoSVftCNsudUIOCZtmeEB3CQGbindtEz9dhvQg2i8Zrzxg==",
+  "dgSpecHash": "XvCFSrv7Cf2rb2KB3i6eySmc1ZPm44NRlDmZkQxvCtL/WMV65ykB3c1TSA2OipbNqTBdzvAJncMYH0Hyn/aA0A==",
   "success": true,
   "projectFilePath": "/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex15HotelBookingClass/Ex15HotelBookingClass.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/joaojorge/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.14/microsoft.netcore.app.host.osx-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
