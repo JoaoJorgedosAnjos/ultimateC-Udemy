@@ -1,0 +1,15 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/bin/Debug/net8.0/Ex12MultiDimensionalArrays
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/bin/Debug/net8.0/Ex12MultiDimensionalArrays.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/bin/Debug/net8.0/Ex12MultiDimensionalArrays.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/bin/Debug/net8.0/Ex12MultiDimensionalArrays.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/bin/Debug/net8.0/Ex12MultiDimensionalArrays.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.sourcelink.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/refint/Ex12MultiDimensionalArrays.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/Ex12MultiDimensionalArrays.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex12MultiDimensionalArrays/obj/Debug/net8.0/ref/Ex12MultiDimensionalArrays.dll
