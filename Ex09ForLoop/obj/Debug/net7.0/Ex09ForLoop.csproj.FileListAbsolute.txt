@@ -1,0 +1,14 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/bin/Debug/net7.0/Ex09ForLoop
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/bin/Debug/net7.0/Ex09ForLoop.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/bin/Debug/net7.0/Ex09ForLoop.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/bin/Debug/net7.0/Ex09ForLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/bin/Debug/net7.0/Ex09ForLoop.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/Ex09ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/Ex09ForLoop.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/Ex09ForLoop.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/Ex09ForLoop.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/Ex09ForLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/refint/Ex09ForLoop.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/Ex09ForLoop.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/Ex09ForLoop.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex09ForLoop/obj/Debug/net7.0/ref/Ex09ForLoop.dll
