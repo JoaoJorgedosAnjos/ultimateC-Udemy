@@ -1,0 +1,15 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/bin/Debug/net8.0/Ex16TheTriangleClass
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/bin/Debug/net8.0/Ex16TheTriangleClass.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/bin/Debug/net8.0/Ex16TheTriangleClass.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/bin/Debug/net8.0/Ex16TheTriangleClass.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/bin/Debug/net8.0/Ex16TheTriangleClass.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.sourcelink.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/refint/Ex16TheTriangleClass.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/Ex16TheTriangleClass.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex16TheTriangleClass/obj/Debug/net8.0/ref/Ex16TheTriangleClass.dll
