@@ -1,0 +1,15 @@
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/bin/Debug/net8.0/Ex17DogClass
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/bin/Debug/net8.0/Ex17DogClass.deps.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/bin/Debug/net8.0/Ex17DogClass.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/bin/Debug/net8.0/Ex17DogClass.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/bin/Debug/net8.0/Ex17DogClass.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.sourcelink.json
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/refint/Ex17DogClass.dll
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.pdb
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/Ex17DogClass.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/ultimateC#Udemy/ultimateC#Udemy/Ex17DogClass/obj/Debug/net8.0/ref/Ex17DogClass.dll
